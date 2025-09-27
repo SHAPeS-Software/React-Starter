@@ -25,7 +25,7 @@ function App() {
 
       <hr />
       <br />
-      <i id="copy">Copyright &copy; {(new Date()).getFullYear()} Your Name</i>
+  <i id="copy">Copyright &copy; {(new Date()).getFullYear()} SHAPeS Software</i>
     </>
   )
 }
