@@ -27,5 +27,10 @@ This project contains multiple files (as react is a lot more complex) this repo 
     - main.jsx | Main JSX file
     - App.jsx | React App component
 
+## Final Notes
+
+Here are some links to the React docs:
+React <a href="https://react.dev/">React.Js</a>
+
 
      
