@@ -15,6 +15,7 @@ dist-ssr
 # Editor directories and files
 .vscode/*
 React-Starter/
+.gitignore
 !.vscode/extensions.json
 .idea
 .DS_Store
